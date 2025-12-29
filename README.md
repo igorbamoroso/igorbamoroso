@@ -1,6 +1,6 @@
 ### Olá, eu sou o Igor! 👋
 
-Sou estudante de **Estatística e Ciência de Dados** e explorador do mundo dos dados.
+Sou estudante de **Estatística e Ciência de Dados** e explorador do mundo dos dados!
 
 - 🎓 Atualmente cursando Bacharelado em Estatística e Ciência de Dados - USP
 - 🐍 Foco em **Python** e bibliotecas de Data Science (Pandas, Scikit-learn).
