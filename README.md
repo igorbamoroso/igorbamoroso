@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, eu sou o Igor! 👋
 
-<!--
-**igorbamoroso/igorbamoroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Estatística e Ciência de Dados** e explorador do mundo dos dados.
 
-Here are some ideas to get you started:
+- 🎓 Atualmente cursando Bacharelado em Estatística e Ciência de Dados.
+- 🐍 Foco em **Python** e bibliotecas de Data Science (Pandas, Scikit-learn).
+- 📊 Interesse especial em **Machine Learning** e **SQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** Python, R, SQL
+* **Dados:** Pandas, NumPy, Matplotlib
+* **Outros:** Git, GitHub
+
+---
+
+📫 **Vamos nos conectar?**
+* [LinkedIn](www.linkedin.com/in/igor-barsoti-amoroso)
+* [Email](mailto:igor.barsoti123@gmail.com)
