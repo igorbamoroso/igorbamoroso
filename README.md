@@ -17,4 +17,4 @@ Sou estudante de **Estatística e Ciência de Dados** e explorador do mundo dos 
 
 📫 **Vamos nos conectar?**
 * [LinkedIn](https://www.linkedin.com/in/igor-barsoti-amoroso)
-* [Email](mailto:igor.barsoti123@gmail.com)
+* [Email](mailto:igorbamoroso@gmail.com)
